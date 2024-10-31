@@ -9,3 +9,4 @@ if __name__ == "__main__":
         .replace("lv_", "")
         .replace("mv_", "")
         .replace("rt_", ""))
+    
